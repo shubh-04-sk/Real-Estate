@@ -7,7 +7,7 @@ import {
   createProperty,
   updateProperty,
   deleteProperty,
-} from "../controllers/propertyController.js";
+} from "../controllers/PropertyController.js";
 
 const router = express.Router();
 
